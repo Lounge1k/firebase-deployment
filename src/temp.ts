@@ -1,2 +1,2 @@
-const foo = "Hello world!";
+const foo = "Hello firebase";
 export default foo
